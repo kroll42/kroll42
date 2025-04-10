@@ -32,6 +32,4 @@ _NLP + Web scraping to analyze job market demands in Japan_
 
 ## 📫 Contact
 Feel free to reach out in **English, Japanese, or Portuguese**  
-- Email: your@email.com  
-- LinkedIn: [YourLinkedIn](#)  
-- Twitter: [@yourhandle](#)
+- Email: munizkarolyne42@gmail.com 
